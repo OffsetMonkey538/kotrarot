@@ -1,2 +1,61 @@
 hash-format = "sha256"
-files = []
+
+[[files]]
+file = "mods/cardinal-components-api.pw.toml"
+hash = "56d0a735ef8c0bfe4ee06bfa66cd11753002c98411eb167cad68f8adcbd76d0a"
+metafile = true
+
+[[files]]
+file = "mods/emi.pw.toml"
+hash = "60e6720aafdfa3304b086f7465917179485a3b2463230505728bd24d54113de3"
+metafile = true
+
+[[files]]
+file = "mods/entityculling.pw.toml"
+hash = "a4b817f8c3de5af3a6ecb2b72caa2daa3042c1e65cc8eb3c794a0b3ec3bbf847"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "71c1a36f3a6dc674f1b89e3d254a8e67d2a831b70f66c64e37cc998c419ad977"
+metafile = true
+
+[[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "9fb4d588bd578e2f16a9605ff6303872130b36ccb0fdfff98bd7274da94f91b9"
+metafile = true
+
+[[files]]
+file = "mods/fzzy-config.pw.toml"
+hash = "f5dd989a0235c1e8200a981c9c33c8f6a1201e66f4b2bcf4be22791d213a0c9d"
+metafile = true
+
+[[files]]
+file = "mods/krypton.pw.toml"
+hash = "c4e45594c8d1ab3dacc3b49142f16fb253178dd31d97cc917bf4a4d54f21e081"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+hash = "972db8c2fec6fb2f3545554062d4cd19364778e30d8f079221fe0d459efa8517"
+metafile = true
+
+[[files]]
+file = "mods/noisium.pw.toml"
+hash = "dcc936d7bd32a86ce63fa3bf013864a4e2ed979cb126a915153ac70ce5e5671f"
+metafile = true
+
+[[files]]
+file = "mods/rainbow-wood.pw.toml"
+hash = "a820e01e2005ff258dd83d761c95d10184601d3bf6f8fc1ef8e7080ded939ee1"
+metafile = true
+
+[[files]]
+file = "mods/rpgstats.pw.toml"
+hash = "a1948c71e3668b99d79d1d3cf8b6992d187703f2fc4aca7ec3f95109f665155b"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "be0c8881821da897824770b2a71f0f3765a233eda69b295fa5b92ffe8a25014c"
+metafile = true
