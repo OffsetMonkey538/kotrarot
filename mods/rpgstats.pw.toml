@@ -1,0 +1,13 @@
+name = "RPGStats"
+filename = "rpgstats-5.2.2+1.21.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/8RtckdKf/versions/m7Chnsgl/rpgstats-5.2.2%2B1.21.jar"
+hash-format = "sha512"
+hash = "11962860c47d8b3185708fb5496652b9ff12c9a4c04cc19941b6bfb424d75cae8e9f3f2cdeb30b8430a74a7bdabe5d1106d25d06d77cf410307074ef3809929a"
+
+[update]
+[update.modrinth]
+mod-id = "8RtckdKf"
+version = "m7Chnsgl"

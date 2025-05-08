@@ -1,0 +1,13 @@
+name = "Wizards (RPG Series)"
+filename = "wizards-2.4.9+1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/NkGaQMDA/versions/4lxFj4E3/wizards-2.4.9%2B1.21.1.jar"
+hash-format = "sha512"
+hash = "a95994739e3b8a0361fffd221b98d21168b0c88abe6b8c15ed0d61d0ea45575acf99231e0eb5954cf7f3aa96801acb9bc34f76931ef76b035881f949dcd4f434"
+
+[update]
+[update.modrinth]
+mod-id = "NkGaQMDA"
+version = "4lxFj4E3"

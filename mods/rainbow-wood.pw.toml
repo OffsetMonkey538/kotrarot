@@ -1,0 +1,13 @@
+name = "Rainbow Wood"
+filename = "rainbow-wood-1.1.0+1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/MgVUzZ9V/versions/JemGAdc7/rainbow-wood-1.1.0%2B1.21.1.jar"
+hash-format = "sha512"
+hash = "f40ca92c6a66081fe3a4d6831cc2b96ff73d1e1076f6dbd04de66de134a6379f9d8c0a99f6be02055fb4b7683e126fbaed2adbd6ffbb17493614e1d2048b750d"
+
+[update]
+[update.modrinth]
+mod-id = "MgVUzZ9V"
+version = "JemGAdc7"
