@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/modernfix-mixins.properties"
+hash = "087b2a1aa19e641cb8e906980afd9e0ef5e39d2319bb2e75c333574812fef631"
+
+[[files]]
 file = "mods/accessories.pw.toml"
 hash = "bb6f0e56a9aefee5c449c1b5a48f5edfb4ea1cd7e274a8227413f5ecc6389f63"
 metafile = true
